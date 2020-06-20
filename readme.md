@@ -36,7 +36,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*default package*-**
 
-![Alt text](/Diagrammi delle classi/QTClientGui.jpg?raw=true "Optional Title")
+![QTClientGui](https://user-images.githubusercontent.com/48212689/85205880-7e71cf00-b31e-11ea-932a-6339cdba9f01.jpg)
 
 **Classi utilizzate -*default package*-**
 
@@ -56,7 +56,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*data package*-**
 
-![image-20200620104955944](C:\Users\TP-LINK\AppData\Roaming\Typora\typora-user-images\image-20200620104955944.png)
+![QTServerGui data](https://user-images.githubusercontent.com/48212689/85205900-a06b5180-b31e-11ea-8ed5-25ebfe3235f9.jpg)
 
 **Classi utilizzate -*data package*-**
 
@@ -82,7 +82,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*database package*-**
 
-![image-20200620104927445](C:\Users\TP-LINK\AppData\Roaming\Typora\typora-user-images\image-20200620104927445.png)
+![QTServerGui database](https://user-images.githubusercontent.com/48212689/85205903-a4976f00-b31e-11ea-9ea3-56aaa0b75f7b.jpg)
 
 **Classi utilizzate -*database package*-**
 
@@ -109,7 +109,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*mining package*-**
 
-![image-20200620104852732](C:\Users\TP-LINK\AppData\Roaming\Typora\typora-user-images\image-20200620104852732.png)
+![QTServerGui mining](https://user-images.githubusercontent.com/48212689/85205916-b7aa3f00-b31e-11ea-9efb-da949c90201b.jpg)
 
 **Classi utilizzate -*mining package*-**
 
@@ -131,7 +131,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*server package*-**
 
-![image-20200620104809699](C:\Users\TP-LINK\AppData\Roaming\Typora\typora-user-images\image-20200620104809699.png)
+![QTServerGui server](https://user-images.githubusercontent.com/48212689/85205917-bbd65c80-b31e-11ea-8ba2-17388e75edc8.jpg)
 
 **Classi utilizzate -*server package*-**
 
