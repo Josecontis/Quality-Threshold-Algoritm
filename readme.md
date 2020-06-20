@@ -36,7 +36,7 @@ Client diversi potrebbero accedere simultaneamente agli stessi dati per effettua
 
 **-*default package*-**
 
-![image-20200620105022877](C:\Users\TP-LINK\AppData\Roaming\Typora\typora-user-images\image-20200620105022877.png)
+![Alt text](/Diagrammi delle classi/QTClientGui.jpg?raw=true "Optional Title")
 
 **Classi utilizzate -*default package*-**
 
